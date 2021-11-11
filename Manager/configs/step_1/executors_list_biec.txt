@@ -1,0 +1,2 @@
+RLECompression=Manager/configs/step_1/step_2/executor_compress.txt
+RLECompression=Manager/configs/step_1/step_2/executor_decompress.txt

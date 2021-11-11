@@ -1,0 +1,7 @@
+READER_CFG=Manager/configs/step_1/step_2/reader_config.txt
+READER_NAME=Reader
+EXECUTORS_FILE=Manager/configs/step_1/executors_list_biec.txt
+WRITER_CFG=Manager/configs/step_1/step_2/writer_config.txt
+WRITER_NAME=Writer
+INPUT_FILE=Manager/inputs_and_outputs/input1.txt
+OUTPUT_FILE=Manager/inputs_and_outputs/total_result.txt

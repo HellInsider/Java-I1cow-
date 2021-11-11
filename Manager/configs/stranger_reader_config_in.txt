@@ -1,0 +1,7 @@
+READER_CFG=Manager/libs/Marin/my_cfg/reader_cfg.txt
+READER_NAME=reader.Worker
+EXECUTORS_FILE=Manager/configs/step_1/my_executor_compress.txt
+WRITER_CFG=Manager/configs/step_1/step_2/writer_config.txt
+WRITER_NAME=Writer
+INPUT_FILE=Manager/inputs_and_outputs/input1.txt
+OUTPUT_FILE=Manager/inputs_and_outputs/temporary_result.txt

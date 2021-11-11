@@ -1,0 +1,3 @@
+executor.Worker=Manager/libs/Marin/configs/executor_cfg.txt
+ru.spbstu.timofeev.workers.Substitutor=Manager/libs/Timofeev/configs/executor_config.txt
+RLECompression=Manager/configs/step_1/step_2/executor_compress.txt
